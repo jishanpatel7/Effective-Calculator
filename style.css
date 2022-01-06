@@ -27,17 +27,17 @@ body {
 }
 
 
-/* .bubbles span {
+ .bubbles span {
     height: 60px;
     width: 60px;
     background: rgba(255, 255, 255, 0.1);
     animation: move 10s linear infinite;
     position: relative;
     overflow: hidden;
-} */
+} 
 
 
-/* 
+
 @keyframes move {
     100% {
         transform: translateY(-100vh);
@@ -92,7 +92,7 @@ body {
 }
 
 
-/* @keyframes mirror {
+ @keyframes mirror {
     100% {
         transform: translateX(-450px);
     }
